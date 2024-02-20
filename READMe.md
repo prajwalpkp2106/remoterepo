@@ -19,29 +19,31 @@ In VisualVoices we think all people despite of color, sex, religon, culture etc 
 
 1. Clone the repository:
 
-    bash
-    $ git clone https://github.com/mansidhote/GSC-Repo \n
+    ```bash
+    $ git clone https://github.com/mansidhote/GSC-Repo
     $ cd your-repo
-    
+    ```
 
 2. Install dependencies:
 
-    bash
+    ```bash
     $ pip install -r requirements.txt
-    
+    ```
 
 ## Usage
 1. Run the application:
 
-    bash
-    $ cd core \n
+    ```bash
+    $ cd core
     $ python manage.py runserver
-    
+    ```
 
 2. Open your browser and navigate to [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
 
 3. To run the ML Model:
    
+   ```bash
    $ cd ML_Model
    $ python app.py
+   ```
 
