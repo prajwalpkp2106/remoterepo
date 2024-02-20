@@ -20,7 +20,7 @@ In VisualVoices we think all people despite of color, sex, religon, culture etc 
 1. Clone the repository:
 
     bash
-    $ git clone https://github.com/mansidhote/GSC-Repo
+    $ git clone https://github.com/mansidhote/GSC-Repo \n
     $ cd your-repo
     
 
@@ -34,7 +34,7 @@ In VisualVoices we think all people despite of color, sex, religon, culture etc 
 1. Run the application:
 
     bash
-    $ cd core
+    $ cd core \n
     $ python manage.py runserver
     
 
